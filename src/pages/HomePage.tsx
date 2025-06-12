@@ -60,7 +60,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
               EventFlow
               <span className="block text-3xl md:text-4xl font-normal text-blue-200 mt-2">
-                Pub/Sub Architecture
+                Where Events Come to Life
               </span>
             </h1>
             
